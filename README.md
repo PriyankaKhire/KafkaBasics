@@ -3,8 +3,10 @@
 <img src="Image002.jpg">
 <img src="Image003.jpg">
 <h1> Programing In Kafka using Java </h1>
-Followed this tutorial to set up basic intellij to use kafka and maven.
+Followed this tutorial to set up basic intellij to use kafka and maven. </br>
 https://www.javatpoint.com/creating-kafka-producer-in-java
+
 </br></br>
-Use this tutorial to start zookeeper and kafka broker.
+
+Use this tutorial to start zookeeper and kafka broker. </br>
 https://www.youtube.com/watch?v=6AYNxdKQ_0o&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON&index=6
